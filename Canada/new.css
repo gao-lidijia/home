@@ -1,0 +1,43 @@
+table, th, td 
+{
+border: 2px solid white;
+color: white;
+padding="3px";
+} 
+body 
+{
+background-color:salmon;
+}
+h1 
+{
+color: white;
+border: 3px solid white;
+border-style: double;
+border-width: 10px;
+font-family: "Impact", Charcoal, sans-serif;
+background-color:orchid;
+}
+ul 
+{
+list-style-type: square;
+}
+p 
+{
+font-family: "Lucida Sans Unicode", Lucida Grande, sans-serif;
+color: white;
+}
+.white
+{
+color: white;
+}
+.border
+{
+border: 2px solid white;
+border-style: double;
+border-width: 5px;
+background-color: orchid;
+font-size: 120%;
+padding="2px";
+}
+
+
